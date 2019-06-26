@@ -1,46 +1,26 @@
-# LAB - 
+# LAB - 01
 
-## Project Name
+## Greet and Arithmetic
 
-### Author: Student/Group Name
+### Author: Joseph Hangarter
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR]()
 * [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
-
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* [heroku]()
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+#### `index.js`
+#### `arithmetic.js`
+#### `arithmetic.test.js`
+#### `greet.js`
+#### `greet.test.js`
 
 #### Running the app
 * `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* `npm run lint`
   
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* `npm test`
 
-#### UML
-Link to an image of the UML for your application and response to events
+Still need to fix arithmetic functions
