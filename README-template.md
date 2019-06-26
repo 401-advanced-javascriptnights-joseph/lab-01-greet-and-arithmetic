@@ -6,8 +6,8 @@
 
 ### Links and Resources
 * [submission PR]()
-* [travis](http://xyz.com)
-* [heroku]()
+* [travis][![Build Status](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-01-greet-and-arithmetic.svg?branch=master)](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-01-greet-and-arithmetic)
+* [heroku](https://lab-01-greet-and-arithmetic.herokuapp.com/)
 
 ### Modules
 #### `index.js`
