@@ -17,9 +17,9 @@ describe('greet', () => {
     }
   });
   it('return hello concatenated with a name if a string', () => {
-    let hello = Greet.greet();
+    let hello = Greet.greet('Joseph');
     if(typeof hello === 'string'){
-      expect(hello).to.have.string(`hello ${name}`);
+      expect(hello).toBe(`hello Joseph`);
     }
   });
 });
